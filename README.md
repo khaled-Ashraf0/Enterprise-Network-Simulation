@@ -44,6 +44,6 @@ An enterprise-grade, highly available multi-tier network topology built and simu
 
 ## 👤 Author
 **Khaled Ashraf**
-* **LinkedIn:** [khaled-ashraf](www.linkedin.com/in/khaled-ashraf0)
+* **LinkedIn:** [khaled-ashraf0](https://www.linkedin.com/in/khaled-ashraf0)
 * **GitHub:** [khaled-Ashraf0](https://github.com/khaled-Ashraf0)
 * **Portfolio:** [5aled.xyz](https://5aled.xyz)
