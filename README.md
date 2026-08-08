@@ -8,6 +8,7 @@ An enterprise-grade, highly available multi-tier network topology built and simu
 ---
 
 ## 📐 Network Architecture & Hardware Topology
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a697f0e6-5202-4378-8d45-dd188d9007a6" />
 
 * **Access Layer:** 9 Access Switches connecting **35 end devices** segmented across departments.
 * **Distribution Layer:** 4 Layer-3 Distribution Switches handling Inter-VLAN routing via **SVI**.
